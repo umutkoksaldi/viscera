@@ -1,0 +1,4 @@
+attacking only adjacent hexagons functionality not added
+check to reset everything when appropriate
+card filling hand functionality
+deck functionality

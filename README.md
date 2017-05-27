@@ -1,9 +1,11 @@
 # viscera
 Viscera
 
+
 For 2 players, ages 7 - 80
 
 Winning Conditions
+
 Reducing your opponent’s health to 0.
 
 Playing Pieces
@@ -11,6 +13,7 @@ Playing Pieces
 2. Game Board
 
 Game Set Up
+
 The board is placed, the decks are shuffled for both players and the players are
 given a territory on their side of the board to start. Blue player goes first and the red
 player goes second. The player going first is given 3 gold tokens for their first move,
@@ -18,6 +21,7 @@ and they proceed to draw 3 cards from their deck. The player going second is giv
 4 gold tokens for their first move and they draw 4 cards from their deck.
 
 Rules
+
 1. The players can play as many cards on their turn as long as they can afford
 the gold cost of the cards. As they play their cards, their gold decreases.
 2. At the start of each turn, the players gain 3 gold and draw a card from their
